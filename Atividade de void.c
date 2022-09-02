@@ -60,8 +60,7 @@ switch(opcao){
 	case 3:{mult(numero1, numero2);}break;
 	case 4:{divisao(numero1, numero2);}break;
 	default:{printf("opcao invalida");}
-}
-		
-	return 1;
+}	
 	
+	return 1;
 }
