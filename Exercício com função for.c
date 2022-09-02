@@ -7,7 +7,7 @@ setlocale(LC_ALL, "PORTUGUESE");
 
 int i, idade, a=0;
 
-	for(i=0; i<4; i++)
+	for(i=0; i<5; i++)
 	{
 		printf("Digite sua idade:\n");
 		scanf("%d", &idade);
