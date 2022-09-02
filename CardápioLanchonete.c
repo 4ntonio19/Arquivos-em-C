@@ -39,6 +39,5 @@ if (opcao==1)
     printf("TOTAL: R$%.2f", total5);
 }
 
-
 return 1;
 }
