@@ -21,6 +21,7 @@ total2=pedidos*salada;
 total3=pedidos*bacon;
 total4=pedidos*torrada;
 total5=pedidos*refri;
+    
 if (opcao==1)
 {
     printf("TOTAL: R$%.2f", total1);
@@ -37,15 +38,6 @@ if (opcao==1)
 {
     printf("TOTAL: R$%.2f", total5);
 }
-
-
-
-
-
-
-
-
-
 
 
 return 1;
