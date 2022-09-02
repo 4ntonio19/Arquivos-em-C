@@ -61,6 +61,7 @@ switch(opcao){
 	case 4:{divisao(numero1, numero2);}break;
 	default:{printf("opcao invalida");}
 }	
+
 	
 	return 1;
 }
